@@ -68,7 +68,6 @@ const typeDefs = `
     testcase: Testcase!
   }
 
-
   enum STATUS {
     PASS
     FAIL
